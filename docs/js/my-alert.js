@@ -9,7 +9,7 @@ const Funcmyalertjs = {
             // image
             var img = document.createElement('img');
             img.src = "../../img/close.png";
-            img.alt = "Not image";
+            //img.alt = "Not image";
             img.classList.add('img-close');
             // title and text
             var div_msg_alert = document.createElement('div');
